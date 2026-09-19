@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Login_Data</name>
+   <name>login_data</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>39276cd2-3f05-436a-9ab4-ad8d6310a069</dataFileGUID>
+   <dataFileGUID>bb930df3-382a-44e4-bb76-1581d5b98622</dataFileGUID>
    <dataSourceUrl>D:\Software Testing\login_data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
