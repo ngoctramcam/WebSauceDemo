@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RemoveFrom</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f4536240-9972-4d9d-a4a4-7169f3f8a600</testSuiteGuid>
+   <testCaseLink>
+      <guid>20e4ad65-6884-4d53-878c-1d8af0d16694</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cart/TC07_RemoveFromCart</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bbcafe00-2bcd-463d-a6ab-8aebf0dd5217</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_success</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bbcafe00-2bcd-463d-a6ab-8aebf0dd5217</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>6a35ed6d-d9ab-4bc0-8b86-b695acb3e956</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bbcafe00-2bcd-463d-a6ab-8aebf0dd5217</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>caf089fd-9223-4d9d-9181-911500c9cbe3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

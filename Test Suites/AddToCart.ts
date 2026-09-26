@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AddToCart</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>91267908-16ce-4a57-95a9-55e93593811f</testSuiteGuid>
+   <testCaseLink>
+      <guid>57915720-dfc1-4aff-9457-7c47e538d338</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cart/TC05_AddToCart</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ac2f5d66-a7ec-42f2-a21b-947ede324603</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_success</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ac2f5d66-a7ec-42f2-a21b-947ede324603</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>8adaf247-201c-4625-b881-11bd1bdaa4d6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac2f5d66-a7ec-42f2-a21b-947ede324603</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>d22c8104-4860-4590-8519-f38859631849</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

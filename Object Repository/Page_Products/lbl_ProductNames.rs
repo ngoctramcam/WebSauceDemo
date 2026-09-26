@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_ProductNames</name>
+   <tag></tag>
+   <elementGuidId>511c9ee5-9aac-47a9-aa42-0b3c1403e0fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='inventory_item']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='inventory_item']</value>
+      <webElementGuid>21c5d32b-aa8c-4855-bf96-bac05ba3deb1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

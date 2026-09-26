@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login_error</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c73cf154-356d-442c-a3a8-3b9c14083e4c</testSuiteGuid>
+   <testCaseLink>
+      <guid>0cad553b-f385-4587-b713-4d1aa36849f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TC02_Login_Error</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>818b3d6d-d205-444a-9dd1-572c9ba4db26</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_error</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>818b3d6d-d205-444a-9dd1-572c9ba4db26</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>e4aa2b5c-8bd1-40ad-9eec-d1d17b32d784</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>818b3d6d-d205-444a-9dd1-572c9ba4db26</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>a52026f8-2453-48c1-8c9d-c968534ec050</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
