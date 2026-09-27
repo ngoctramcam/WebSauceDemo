@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>857a18ec-0610-4a8c-96ca-1930a05b966f</dataFileGUID>
-   <dataSourceUrl>D:\Software Testing\TestData\login_error.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Software Testing\TestSauceDemo\WebSauceDemo\TestData\login_error.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
