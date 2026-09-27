@@ -49,7 +49,7 @@ WebUI.setText(findTestObject('Page_Checkout/input_PostalCode'), PostCode)
 WebUI.click(findTestObject('Page_Checkout/btn_Continue'))
 
 // Verify error message xuất hiện
-WebUI.verifyElementPresent(findTestObject('Page_Loginz/lbl_ErrorMessage'), 5)
+WebUI.verifyElementPresent(findTestObject('Page_Login/lbl_ErrorMessage'), 5)
 
 WebUI.closeBrowser()
 

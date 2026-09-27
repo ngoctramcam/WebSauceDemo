@@ -188,22 +188,22 @@
       <testCaseId>Test Cases/Cart/TC07_RemoveFromCart</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>4eb9db27-4f71-4055-b391-5503bbc5edef</id>
+         <id>5e2da41f-0c67-4b94-9f24-1f0e5fee06f6</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Login_error</testDataId>
+         <testDataId>Data Files/Login_success</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>4eb9db27-4f71-4055-b391-5503bbc5edef</testDataLinkId>
+         <testDataLinkId>5e2da41f-0c67-4b94-9f24-1f0e5fee06f6</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Username</value>
          <variableId>6a35ed6d-d9ab-4bc0-8b86-b695acb3e956</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>4eb9db27-4f71-4055-b391-5503bbc5edef</testDataLinkId>
+         <testDataLinkId>5e2da41f-0c67-4b94-9f24-1f0e5fee06f6</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Password</value>
          <variableId>caf089fd-9223-4d9d-9181-911500c9cbe3</variableId>
